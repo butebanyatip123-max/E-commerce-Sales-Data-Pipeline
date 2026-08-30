@@ -76,3 +76,6 @@ The dashboard includes:
 - Top 10 best-selling products by revenue
 - Top 10 customers by total spend
 - Order status breakdown (completed / pending / cancelled / returned)
+
+## What this project demonstrates
+This project spans both Data Engineering (building the pipeline, cloud storage, data warehousing) and Data Analysis (SQL analytics, dashboard design) — showing the full journey from raw data to business insight.
