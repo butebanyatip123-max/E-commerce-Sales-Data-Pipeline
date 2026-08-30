@@ -1,6 +1,3 @@
-# E-commerce-Sales-Data-Pipeline
-E-commerce sales ETL pipeline built with Python, AWS S3, and BigQuery.
-
 # E-commerce Sales Data Pipeline
 
 An end-to-end ETL data pipeline that generates, cleans, and loads retail sales data into a cloud data warehouse, with an interactive analytics dashboard.
